@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0075-sort-colors](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0360-sort-transformed-array](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0360-sort-transformed-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
