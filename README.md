@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0360-sort-transformed-array](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0360-sort-transformed-array) |
 ## String
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
