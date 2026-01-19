@@ -47,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0709-to-lower-case](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1768-merge-strings-alternately](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [2390-removing-stars-from-a-string](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
