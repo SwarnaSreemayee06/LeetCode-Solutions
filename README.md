@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0360-sort-transformed-array](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0360-sort-transformed-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
