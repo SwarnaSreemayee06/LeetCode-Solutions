@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
