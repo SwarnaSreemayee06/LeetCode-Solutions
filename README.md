@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0360-sort-transformed-array](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0360-sort-transformed-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1207-unique-number-of-occurrences](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/SwarnaSreemayee06/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
